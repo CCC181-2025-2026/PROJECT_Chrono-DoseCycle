@@ -32,3 +32,4 @@ This project aims to achieve the following:
 - Local alert actuators (LEDs, vibration motor)
 
 ---
+## ✨ Block Diagram
