@@ -17,3 +17,18 @@ This project aims to achieve the following:
 * **🚀 Innovate in Medical Technology** The project serves as a foundational step in applying Internet of Things (IoT) and Cyber-Physical Systems (CPS) theories to practical healthcare solutions. It creates a scalable architecture that supports advanced features like caregiver monitoring, refill alerts, and health data analytics.
 
 ---
+## 💊 Technology Stack (Implemented & Planned)
+
+### ✅ Implemented Software Technologies
+- Web-based user interface for medication scheduling
+- Backend logic using Flask (Python)
+- Database management using SQLAlchemy (ORM)
+- Interactive scheduling and reminders using JavaScript
+
+### 🛠️ Proposed Hardware Technologies
+- Microcontroller-based smart pillbox (IoT node)
+- Dose detection sensors (pressure/magnetic)
+- Wireless communication module (Bluetooth/Wi-Fi)
+- Local alert actuators (LEDs, vibration motor)
+
+---
