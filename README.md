@@ -43,7 +43,7 @@ This project aims to achieve the following:
 Chrono-Dose Cycle – Smart Pillbox System Demo
 
 
-https://github.com/CCC181-2025-2026/PROJECT_Chrono-DoseCycle/blob/e7a0adb1ac0d9f02a16518fd16c16110116c4544/Chrono-Dose%20Cycle.mp4
+https://drive.google.com/file/d/1mv1tpXSIdapBWmcHZ9QyQsEcIPUNJwvu/view?usp=drivesdk
 
 ---
 ## 👥 Project Proponents
